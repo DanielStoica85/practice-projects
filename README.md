@@ -24,3 +24,11 @@ A collection of small learning/practice projects.
 **Extra:** [Hippopotamus API](http://www.zippopotam.us/)
 
 **Source:** https://www.youtube.com/watch?v=K3GfUH7AZKs
+
+### **filterable-list**
+
+**Info:** Filterable list of contact names (in JS).
+
+**Tools:** HTML5, Materilize CSS (just a bit), Vanilla JS.
+
+**Source:** https://youtu.be/G1eW3Oi6uoc
