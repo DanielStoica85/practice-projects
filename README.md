@@ -32,3 +32,11 @@ A collection of small learning/practice projects.
 **Tools:** HTML5, Materilize CSS (just a bit), Vanilla JS.
 
 **Source:** https://youtu.be/G1eW3Oi6uoc
+
+### **parallax-like-website**
+
+**Info:** Parallax mini website demo (with CSS only).
+
+**Tools:** HTML5, CSS3.
+
+**Source:** https://www.youtube.com/watch?v=JttTcnidSdQ
