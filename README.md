@@ -40,3 +40,11 @@ A collection of small learning/practice projects.
 **Tools:** HTML5, CSS3.
 
 **Source:** https://www.youtube.com/watch?v=JttTcnidSdQ
+
+### **mobile-first-contact-form**
+
+**Info:** Simple contact form, just the UI, no functionality added.
+
+**Tools:** HTML5, CSS3, CSS Grid, Animate CSS.
+
+**Source:** [tutorial](https://youtu.be/Sb5qOa3R4hY)
