@@ -48,3 +48,11 @@ A collection of small learning/practice projects.
 **Tools:** HTML5, CSS3, CSS Grid, Animate CSS.
 
 **Source:** [tutorial](https://youtu.be/Sb5qOa3R4hY)
+
+### **responsive-sliding-side-menu**
+
+**Info:** Sliding side menu without any frameworks.
+
+**Tools:** HTML5, CSS3, Javascript.
+
+**Source:** [tutorial](https://youtu.be/wpGNFGqNfdU)
