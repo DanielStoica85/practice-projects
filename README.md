@@ -56,3 +56,11 @@ A collection of small learning/practice projects.
 **Tools:** HTML5, CSS3, Javascript.
 
 **Source:** [tutorial](https://youtu.be/wpGNFGqNfdU)
+
+### **grid-css-demo-mini-website**
+
+**Info:** Small company presentation website based on CSS Grid.
+
+**Tools:** HTML5, CSS3, CSS Grid.
+
+**Source:** [tutorial](https://youtu.be/M3qBpPw77qo)
