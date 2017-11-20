@@ -64,3 +64,11 @@ A collection of small learning/practice projects.
 **Tools:** HTML5, CSS3, CSS Grid.
 
 **Source:** [tutorial](https://youtu.be/M3qBpPw77qo)
+
+### **html5-css3-responsive-web-design-company-website**
+
+**Info:** Small company presentation website done only with HTML5 and CSS3.
+
+**Tools:** HTML5, CSS3.
+
+**Source:** [tutorial](https://youtu.be/jV8B24rSN5o)
