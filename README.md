@@ -80,3 +80,12 @@ A collection of small learning/practice projects.
 **Tools:** HTML5, CSS3.
 
 **Source:** [tutorial](https://www.youtube.com/watch?v=7rJ5rhdVvOo)
+
+### **tech-company-small-website-with-scroll-reveal-and-bootstrap**
+
+**Info:** Basic website for a tech company, using Scroll Reveal and Bootstrap 3.
+
+**Tools:** HTML5, CSS3, Bootstrap 3.3.7, Scroll Reveal.
+
+**Source:** [tutorial](https://www.youtube.com/watch?v=ePgnR4gHIi4)
+
