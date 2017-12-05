@@ -72,3 +72,11 @@ A collection of small learning/practice projects.
 **Tools:** HTML5, CSS3.
 
 **Source:** [tutorial](https://youtu.be/jV8B24rSN5o)
+
+### **css3-pricing tables**
+
+**Info:** Basic responsive pricing tables in HTML5 and CSS3.
+
+**Tools:** HTML5, CSS3.
+
+**Source:** [tutorial](https://www.youtube.com/watch?v=7rJ5rhdVvOo)
