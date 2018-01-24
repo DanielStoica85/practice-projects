@@ -89,3 +89,9 @@ A collection of small learning/practice projects.
 
 **Source:** [tutorial](https://www.youtube.com/watch?v=ePgnR4gHIi4)
 
+### **basic-socketio-app-setup**
+
+**Info:** Basic setup of a socket.io app.
+
+**Tools:** Node.js, Express, Socket.io.
+
