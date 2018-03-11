@@ -95,3 +95,17 @@ A collection of small learning/practice projects.
 
 **Tools:** Node.js, Express, Socket.io.
 
+### **nodejs-jwt-authentication**
+
+**Info:** Basic JWT authentication on Express App
+
+**Tools:** Node, Express, Jwt
+
+**Source:** [tutorial](https://www.youtube.com/watch?v=7nafaH9SddU)
+
+### **js-profile-scroller**
+
+**Info:** Profile scroller using ES2015 Iterators
+
+**Tools:** Bootstrap4, ES2016 Iterators
+
