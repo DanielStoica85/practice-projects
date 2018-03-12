@@ -109,3 +109,11 @@ A collection of small learning/practice projects.
 
 **Tools:** Bootstrap4, ES2016 Iterators
 
+### **guess-the-password**
+
+**Info:** Guess the password Game
+
+**Tools:** ES2016 arrow functions, spread operator, destructuring.
+
+**Source:** [tutorial](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/t/lecture/7307290)
+
