@@ -117,3 +117,11 @@ A collection of small learning/practice projects.
 
 **Source:** [tutorial](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/t/lecture/7307290)
 
+### **calorie-counter**
+
+**Info:** Calorie counter
+
+**Tools:** Javascript Module Pattern.
+
+**Source:** [tutorial](https://www.udemy.com/modern-javascript-from-the-beginning/learn/v4)
+
