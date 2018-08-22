@@ -1,0 +1,61 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background: rgb(236, 236, 236);
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.switch {
+    position: relative;
+    display: block;
+    width: 90px;
+    height: 55px;
+    margin-bottom: 30px;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    transition: .5s;
+    border: 2px solid white;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 35px;
+}
+
+.slider:before {
+    position: absolute;
+    content: '';
+    left: -6px;
+    top: 13px;
+    background-color: lightgray;
+    transition: .5s;
+    width: 50%;
+    height: 50%;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    transform: rotateZ(-90deg);
+}
+
+.switch input {
+    display: none;
+}
+
+input:checked+.slider {
+    background-color: black;
+}
+
+input:checked+.slider:before {
+    transform: translateX(52px) rotateZ(90deg);
+    background: yellow;
+}
